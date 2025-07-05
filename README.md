@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHcw9G9SB8dMGJaTqTYOjBiyfHlzHMo1dmzmMKTJ9JzMF0drjPiJ75w-thn-L0ryJ1h4&usqp=CAU )
 <h1 align="center">Hello there 👋, I'm Saqib Wazir</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
